@@ -10,15 +10,15 @@ DESCRIPTION : Add up all the numbers from 1 to 100 using loop, and express the s
 
 int main() {
 
-	int i = 11;
+	int iii = 11;
 	int sum = 0; 
 
 	
-	while (i < 101) {
+	while (iii < 101) {
 
-		sum += i;
+		sum += iii;
 
-		ii++;
+		iii++;
 	}
 	printf("%d", sum);
 
