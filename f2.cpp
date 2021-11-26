@@ -10,13 +10,13 @@ DESCRIPTION : Add up all the numbers from 1 to 100 using loop, and express the s
 
 int main() {
 
-	int ii = 1;
+	int i = 11;
 	int sum = 0; 
 
 	
-	while (ii < 101) {
+	while (i < 101) {
 
-		sum += ii;
+		sum += i;
 
 		ii++;
 	}
